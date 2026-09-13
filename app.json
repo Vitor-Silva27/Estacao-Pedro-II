@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Estacao_pedroII",
+    "name": "Estação Pedro II",
     "slug": "Estacao_pedroII",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,7 +21,8 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.vitorsilva.estacaopedroii"
     },
     "web": {
       "favicon": "./assets/favicon.png"
