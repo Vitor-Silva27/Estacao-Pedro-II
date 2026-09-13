@@ -27,7 +27,10 @@
         "googleMaps": {
           "apiKey": "AIzaSyDNt0Z5V5aL_Ju5UA4-niO-PpByVy0SwBs"
         }
-      }
+      },
+      "permissions": [
+        "android.permission.RECORD_AUDIO"
+      ]
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -42,6 +45,12 @@
           "photosPermission": "O app acessa suas fotos para enviar imagens das atrações."
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "30d85eb2-5e8c-4058-88d6-1bc757274b05"
+      }
+    },
+    "owner": "vitor_silva27"
   }
 }
