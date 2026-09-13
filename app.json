@@ -22,7 +22,12 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.vitorsilva.estacaopedroii"
+      "package": "com.vitorsilva.estacaopedroii",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDNt0Z5V5aL_Ju5UA4-niO-PpByVy0SwBs"
+        }
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
